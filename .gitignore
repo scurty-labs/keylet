@@ -1,5 +1,6 @@
 keylet
 _keylet_vault_
+._keylet_vault_
 *.so
 *.dylib
 *.dll
